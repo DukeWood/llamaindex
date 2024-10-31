@@ -1,0 +1,9 @@
+[project]
+name = "repl-nix-llamaindex"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "gpt-index>=0.8.42",
+    "python-dotenv>=1.0.1",
+]
